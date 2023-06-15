@@ -1,16 +1,32 @@
-### Hi there 👋
+# Howdy Y'all! 🤠
 
-<!--
-**yeehawtoast/yeehawtoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Fun fact:
+  1. I am from Texas, more specifically from the Panhandle
+  2. I started coding as a hobby when I was 10 using VB 💪🏻
+  3. I am a Computer Science Educator, teaching students ranging from beginner to AP level
+  4. I love marathon running when I am not coding!
 
-Here are some ideas to get you started:
+Language timeline:
+VB -> Java -> Python -> JS -> "Rusty" C (w with Rust)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience:
+
+Java: Intermediate
+Javascript: Intermediate
+Python: Intermediate
+C: Starting Out
+Rust: Starting Out
+
+## 🔭 I’m currently working on
+- Linux From Scratch
+- Refactoring old projects not yet on Github
+- Frequently updating my dotfiles (Arch BTW😉)
+- Recorded Lesson Plans for homebound students.
+
+## 🌱 I’m currently learning 
+- Embedded Systems
+- Rusty C/C++
+
+
+
+<!-- - Projects List -->
