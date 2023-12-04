@@ -1,32 +1,30 @@
 # Howdy Y'all! 🤠
 
-## ⚡ Fun fact:
-  1. I am from Texas, more specifically from the Panhandle
-  2. I started coding as a hobby when I was 10 using VB 💪🏻
-  3. I am a Computer Science Educator, teaching students ranging from beginner to AP level
-  4. I love marathon running when I am not coding!
-
-Language timeline:
-VB -> Java -> Python -> JS -> "Rusty" C (w with Rust)
+## ⚡ Fun facts:
+  1. Texas Panhandle Native
+  2. Former Computer Science Teacher at the secondary/high school level.
+  3. When not coding, I run half and full marathons, although I am not training at the moment due to injury.
+  4. I have been programming for over 10 years, but will mark my first year of enterprise software development this year.
+  5. I did NOT get my degree in Computer Science, but I did recieve a degree in Business Communications.
 
 ## Experience:
+Former Social Media data analytics using pythong during senior year of university
+Former Computer Science Teacher using Javascript, Java, and python
+Current Enterprise systems developer using C#.Net and Java.
+Current coding hobbyist using Go, Ocaml, and C.
 
-Java: Intermediate
-Javascript: Intermediate
-Python: Intermediate
-C: Starting Out
-Rust: Starting Out
 
 ## 🔭 I’m currently working on
-- Linux From Scratch
-- Refactoring old projects not yet on Github
-- Frequently updating my dotfiles (Arch BTW😉)
-- Recorded Lesson Plans for homebound students.
+- Advent of Code for fun
+- Rounding out education in Computer Science
+- Preparing Digital Lessons for students using Manim framework for Python
+- Project-based learning
 
 ## 🌱 I’m currently learning 
-- Embedded Systems
-- Rusty C/C++
+- Compiler and Programming Language Theory
+- Real-time, multiple device systems that sync across platforms, devices, and databases.
 
 
 
 <!-- - Projects List -->
+Will appear once they are more rounded out and not just ideas in my head.
