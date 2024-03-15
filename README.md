@@ -10,15 +10,13 @@
 ## Experience:
 Former Social Media data analytics using pythong during senior year of university
 Former Computer Science Teacher using Javascript, Java, and python
-Current Enterprise systems developer using C#.Net and Java.
+Current Enterprise systems developer using C#.Net and ABAP.
 Current coding hobbyist using Go, Ocaml, and C.
 
 
 ## 🔭 I’m currently working on
 - Advent of Code for fun
-- Rounding out education in Computer Science
-- Preparing Digital Lessons for students using Manim framework for Python
-- Project-based learning
+- developing open source program for fun
 
 ## 🌱 I’m currently learning 
 - Compiler and Programming Language Theory
