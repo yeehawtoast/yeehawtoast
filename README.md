@@ -8,15 +8,16 @@
   5. I did NOT get my degree in Computer Science, but I did recieve a degree in Business Communications.
 
 ## Experience:
-Former Social Media data analytics using pythong during senior year of university
-Former Computer Science Teacher using Javascript, Java, and python
+Former Social Media data analytics intern using Python as a part of a capstone program.
+Former Computer Science Teacher Teaching beginner and College-level courses in Java, Javascript, and Python.
 Current Enterprise systems developer using C#.Net and ABAP.
 Current coding hobbyist using Go, Ocaml, and C.
 
 
 ## 🔭 I’m currently working on
 - Advent of Code for fun
-- developing open source program for fun
+- Developing project programs for fun and to challenge my knowledge in new ways.
+- Figuring out how to balance being a parent, worker, and hobbyist.
 
 ## 🌱 I’m currently learning 
 - Compiler and Programming Language Theory
