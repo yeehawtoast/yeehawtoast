@@ -26,15 +26,8 @@ Current coding hobbyist using Go, Ocaml, and C.
 
 
 ## Projects
-
-### Advent of Code and Similar
-#### [Advent of Code](https://github.com/yeehawtoast/adventofcode)
-Advent of Code is one of those things I look forward to every year. Even though I don't often have time to complete them the way other people might, I enjoy poking around and finding solutions to problems from time to time.
-
-### Personal Projects
-#### [Open Source Lesson Plans](https://github.com/yeehawtoast/opensourcelessonplans)
-I'm a former teacher. One thing I hated was having a set of lessons that sucked, or didn't fit what my or my students needed. While I've been busy, I'm hoping this summer to start adding in lessons that will produce content for young students hoping to go into software development/computer science
-
-#### [Recipie Reader](https://github.com/yeehawtoast/Recipe_Reader)
-This is one of those projects that's been stewing in my mind for a bit and I'm finally putting my pen to paper on it. Hopefully I'll finally finish designing the front-end enough to have something to show for it, it just depends on how busy I will get.
-
+### Project-Based Learning
+#### Go
+#### Flutter
+#### C
+#### JS
