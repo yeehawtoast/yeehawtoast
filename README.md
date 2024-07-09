@@ -28,6 +28,9 @@ Current coding hobbyist using Go, Ocaml, and C.
 ## Projects
 ### Project-Based Learning
 #### Go
+1. [Blockchain](https://github.com/yeehawtoast/pbl_go_blockchain)
+2. [Chat App 1](https://github.com/yeehawtoast/pbl_go_chatapp1)
+3. [Microservice](https://github.com/yeehawtoast/pbl_go_microservice)
 #### Flutter
 #### C
 #### JS
