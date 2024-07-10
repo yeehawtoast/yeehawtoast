@@ -57,11 +57,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeehawtoast&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🌱 I’m currently learning 
-- Compiler and Programming Language Theory
-- Real-time, multiple device systems that sync across platforms, devices, and databases.
-
-
 
 ## Projects
 ### Project-Based Learning
