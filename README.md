@@ -18,10 +18,10 @@
 
 # About Me
 
-  🤠 Texas Native, but live in Utah now.
-  🏫 Former Computer Science Teacher at the secondary/high school level.
-  🏃‍♂️ When not coding, I run half marathons, spend time with my family, and enjoy time outdoors.
-  ⚙️ Backend and System Developer
+  - 🤠 Texas Native, but live in Utah now.
+  - 🏫 Former Computer Science Teacher at the secondary/high school level.
+  - 🏃‍♂️ When not coding, I run half marathons, spend time with my family, and enjoy time outdoors.
+  - ⚙️ Backend and System Developer
 
 ---
 
