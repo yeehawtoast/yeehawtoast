@@ -55,15 +55,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeehawtoast&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeehawtoast&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-## Projects
-### Project-Based Learning
-#### Go
-1. [Blockchain](https://github.com/yeehawtoast/pbl_go_blockchain)
-2. [Chat App 1](https://github.com/yeehawtoast/pbl_go_chatapp1)
-3. [Microservice](https://github.com/yeehawtoast/pbl_go_microservice)
-#### Flutter
-#### C
-#### JS
